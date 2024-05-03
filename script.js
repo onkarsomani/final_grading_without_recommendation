@@ -339,6 +339,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
+    positionDisplay = document.getElementById("tottt");
+    positionDisplay.textContent = ` ${totalMarksArray.length }`;
+
 
     positionDisplay = document.getElementById("abvav");
     positionDisplay.textContent = ` ${abvavcnt}`;
