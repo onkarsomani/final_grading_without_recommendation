@@ -204,6 +204,6 @@ function calculateGrades(marksArray, courseTotalInput) {
 }
 
 
-function sayhello(){
+// function sayhello(){
     
-}
+// }
